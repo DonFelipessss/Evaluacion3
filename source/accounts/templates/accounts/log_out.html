@@ -1,9 +1,11 @@
 {% extends 'layouts/default/page.html' %}
 
+{% load bootstrap4 %}
 {% load i18n %}
 
 {% block content %}
 
+<div class="container text-center">
     <h4>{% trans 'Logged out' %}</h4>
 
     <p>
@@ -13,5 +15,5 @@
     <p>
         <a href="{% url 'accounts:log_in' %}">{% trans 'Log in again' %}</a>
     </p>
-
+</div>
 {% endblock %}
