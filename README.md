@@ -2,6 +2,11 @@
 
 Evaluación 3 tienda de mascotas - código por Felipe Álvarez
 
+## Funcionalidades
+Inicio
+Carrusel
+Login CRUD
+
 
 ## Instalar
 
