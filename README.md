@@ -1,6 +1,6 @@
 # Evaluación 3 - DuocUC
 
-Evaluación 3 tienda de mascotas
+Evaluación 3 tienda de mascotas - código por Felipe Álvarez
 
 
 ## Instalar
